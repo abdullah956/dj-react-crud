@@ -1,1 +1,1 @@
-# dj-react-crud
+# drf-react-crud
